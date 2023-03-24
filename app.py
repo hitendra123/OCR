@@ -11,7 +11,7 @@ import pandas as pd
 
 from doctr.file_utils import is_tf_available
 from doctr.io import DocumentFile
-from doctr.utils.visualization import visualize_pagegit add README.md
+from doctr.utils.visualization import visualize_pagegit 
 
 if is_tf_available():
     import tensorflow as tf
